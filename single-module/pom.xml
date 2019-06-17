@@ -19,7 +19,7 @@
   <distributionManagement>
     <site>
       <id>site-server</id>
-      <name>Test Snehit Project Site</name>
+      <name>Test Nidhi Project Site</name>
       <url>file:///tmp/single-module-site</url>
     </site>
   </distributionManagement>
